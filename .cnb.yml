@@ -39,6 +39,8 @@ master:
             echo "✅ 合并成功（或者无冲突），准备推送..."
 
             # --- 推送 ---
+            git push origin master
+            echo "✅ 已推送到当前平台"
             git push github master
             echo "🚀 已成功同步到 GitHub"
 
