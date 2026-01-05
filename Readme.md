@@ -68,8 +68,7 @@
 - 安装 [GitZip 插件](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/nlgkiabjnbdndgblhcaobimbpifcdkjj)选择多个文件下载
 - 项目网站：
   - Github Pages：[https://ecust-courseshare.github.io/](https://ecust-courseshare.github.io/)
-  - Edgeone镜像（回源Github Pages | 支持ipv6）：[https://ecust-courseshare.bestzyq.cn/](https://ecust-courseshare.bestzyq.cn/)
-  - Edgeone Pages：[https://ecust-courseshare.ecustvr.top/](https://ecust-courseshare.ecustvr.top/)
+  - Edgeone Pages（国内推荐）: <a href="https://ecust-courseshare.bestzyq.cn/">https://ecust-courseshare.bestzyq.cn/</a> 或 <a href="https://ecust-courseshare.ecustvr.top/">https://ecust-courseshare.ecustvr.top/</a>
 - Alist 镜像：
   - [公网](https://alist.xn--rhqr3ykwbm05aegjqxb.com/)（[wu2305](https://github.com/wu2305) 提供，更新于 2023.09.19）
   - [公网](http://alist.ecustvr.top/)（由 VR 俱乐部提供）
@@ -145,7 +144,7 @@ Issue、PR、纠错、资料、选课/考试攻略，完全欢迎！大家的关
 ## TODO List
 
 - [ ] 向没有 Git 基础的广大同学介绍简便使用方式
-- [ ] 为项目制作网站首页，参考[中科大的项目](https://ustc-resource.github.io/USTC-Course/)
+- [x] 为项目制作网站首页，参考[中科大的项目](https://ustc-resource.github.io/USTC-Course/)
 - [ ] 邀请更多志同道合者
 - [ ] **形成项目传承长效机制，每一位来到学校的同学都能享受历年传承的攻略并可以贡献自己的智慧。**
 - [ ] **项目瘦身!!!!太大了!!!!**
